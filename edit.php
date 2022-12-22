@@ -20,8 +20,8 @@
                 <div id="weightRule" class="form-text">Berat barang dalam satuan Kg.</div>
             </div>
             <div class="mb-3">
-                <label class="form-label">Total barang</label>
-                <input type="number" class="form-control" placeholder="Masukkan total barang" name="total" required>
+                <label class="form-label">Stok barang</label>
+                <input type="number" class="form-control" placeholder="Masukkan stok barang" name="stok" required>
             </div>
             <button type="submit" class="btn btn-primary">Simpan</button>
             <a type="button" href="index.php" class="btn btn-danger">Batal</a>
