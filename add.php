@@ -21,7 +21,7 @@
             </div>
             <div class="mb-3">
                 <label class="form-label">Stok barang</label>
-                <input type="number" class="form-control" placeholder="Masukkan stok barang" name="Stok" required>
+                <input type="number" class="form-control" placeholder="Masukkan stok barang" name="stok" required>
             </div>
             <button type="submit" class="btn btn-primary">Tambah Barang</button>
             <a type="button" href="index.php" class="btn btn-danger">Batal</a>
